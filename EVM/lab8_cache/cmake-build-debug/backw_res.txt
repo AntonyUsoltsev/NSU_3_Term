@@ -1,0 +1,17 @@
+Backward   Size in bytes: 1024  Time taken: 12 ticks
+Backward   Size in bytes: 2048  Time taken: 11 ticks
+Backward   Size in bytes: 4096  Time taken: 12 ticks
+Backward   Size in bytes: 8192  Time taken: 12 ticks
+Backward   Size in bytes: 16384  Time taken: 12 ticks
+Backward   Size in bytes: 32768  Time taken: 13 ticks
+Backward   Size in bytes: 65536  Time taken: 12 ticks
+Backward   Size in bytes: 131072  Time taken: 13 ticks
+Backward   Size in bytes: 262144  Time taken: 10 ticks
+Backward   Size in bytes: 524288  Time taken: 7 ticks
+Backward   Size in bytes: 1048576  Time taken: 7 ticks
+Backward   Size in bytes: 2097152  Time taken: 7 ticks
+Backward   Size in bytes: 4194304  Time taken: 7 ticks
+Backward   Size in bytes: 8388608  Time taken: 7 ticks
+Backward   Size in bytes: 16777216  Time taken: 7 ticks
+Backward   Size in bytes: 33554432  Time taken: 7 ticks
+Backward   Size in bytes: 67108864  Time taken: 7 ticks
