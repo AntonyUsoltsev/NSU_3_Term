@@ -1,1 +1,1 @@
-# Face detecting program created using OpenCV
+# Face detecting program created by using OpenCV
