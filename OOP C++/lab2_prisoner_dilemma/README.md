@@ -1,2 +1,2 @@
 # lab2_prisoner_dilemma
-This lab is about prisoner's dilemma for three prisoners.
+This lab is about recurring prisoner's dilemma for 3 players
